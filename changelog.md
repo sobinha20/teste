@@ -11,6 +11,10 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 - Added changelog.md
 
+### Removed
+
+- Removed t1.txt e t2.txt
+
 - This CHANGELOG file to hopefully serve as an evolving example of a
   standardized open source project CHANGELOG.
 - CNAME file to enable GitHub Pages custom domain
